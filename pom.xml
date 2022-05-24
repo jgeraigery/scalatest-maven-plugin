@@ -20,7 +20,7 @@
     <scala.minor.version>8</scala.minor.version>
     <scala.version>${scala.major.version}.${scala.minor.version}</scala.version>
     <deploy.scala.version>2.11</deploy.scala.version>
-    <scalatest.version>2.2.6</scalatest.version>
+    <scalatest.version>3.2.12</scalatest.version>
     <maven.scala.plugin.version>2.14.1</maven.scala.plugin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
