@@ -26,7 +26,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <build.timestamp>${maven.build.timestamp}</build.timestamp>
     <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
-    <maven.gpg.plugin.version>1.6</maven.gpg.plugin.version>
+    <maven.gpg.plugin.version>3.0.1</maven.gpg.plugin.version>
     <maven.project.info.reports.plugin.version>2.9</maven.project.info.reports.plugin.version>
   </properties>
 
